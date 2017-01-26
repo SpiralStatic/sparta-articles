@@ -4,20 +4,40 @@
     "course": "sdet-7",
     "title": "DigitalOcean, DNSimple and Terraform: A very short introduction",
     "url": "https://blog.spartaglobal.com/digitalocean-dnsimple-and-terraform-a-very-short-introduction-38e84990bbf3#.6dm2effxm"
-  },
-
- {
+  },{
+    "author": "Nicholas Houghton",
+    "course": "test-13",
+    "title": "Day 7 in the Sparta Global House: A Passion of Mine",
+    "url": "https://medium.com/@nhoughton26/day-2-in-the-sparta-global-house-a-passion-of-mine-d611dd84d928#.i0v1k0uce"
+  },{
+  	"author": "Lucy Zou",
+    "course": "test-13",
+    "title": "How Big Data is helping to combat climate change",
+    "url": "https://medium.com/@lzou/how-big-data-is-helping-to-combat-climate-change-cd8a562b7f60#.ywolj7yrh"
+  },{
+    "author": "Khalid Abdulkarim",
+    "course": "sdet-7",
+    "title": "Video Assistant Referees Systems",
+    "url": "https://medium.com/@k4khalid/video-assistant-referees-systems-var-91d942215878#.8czp6oijv"
+  },{
+    "author": "Abshira Mohamed",
+    "course": "sdet-7",
+    "title": "Importance of Digital Communication",
+    "url": "https://medium.com/@amohamed/importance-of-digital-communication-eddab2531684#.61sk0i8ae"
+  },{
   	"author": "George Harris",
     "course": "sdet-7",
     "title": "The Code Behind Code",
     "url": "https://medium.com/@gharris_46002/the-code-behind-code-f4af5a804336#.u8wf0kcil"
-  },
-
-  {
+  },{
      "author": "Christopher Tsoi",
      "course": "webdev-3",
      "title": "Future Imperfect — Automation",
      "url": "https://medium.com/@chrisjtsoi.work/future-imperfect-automation-4ecdce50999c#.3umi4vs89"
-   }
-
+   },{
+    "author": "Mohammed Usman Khan",
+    "course": "sdet-7",
+    "title": "IoT, Ubiquity, Machines. Do you know what’s coming?",
+    "url": "https://medium.com/@mrmukhan/iot-and-its-architecture-96f88ae43217#.35wnhgg0w"
+  }
 ]
